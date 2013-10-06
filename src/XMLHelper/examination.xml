@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_51" class="java.beans.XMLDecoder"> 
+ <object class="model.examination.Examination"> 
+  <void property="sections"> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>1</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>2</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>3</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>4</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>5</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>6</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>7</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>8</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>9</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>10</int> 
+     </void> 
+    </object> 
+   </void> 
+   <void method="add"> 
+    <object class="model.examination.Section"> 
+     <void property="id"> 
+      <int>11</int> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+ </object> 
+</java> 
